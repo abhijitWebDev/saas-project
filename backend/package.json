@@ -1,7 +1,7 @@
 {
     "name": "Saas project",
     "version": "1.0.0",
-    "description": "backend aim at chai aur code channel",
+    "description": "backend of saas project",
     "main": "index.js",
     "scripts": {
       "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
