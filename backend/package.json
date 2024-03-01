@@ -1,5 +1,5 @@
 {
-    "name": "Saas project",
+    "name": "@saas-project/backend",
     "version": "1.0.0",
     "description": "backend of saas project",
     "main": "index.js",
